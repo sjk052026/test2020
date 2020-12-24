@@ -1,0 +1,15 @@
+date={
+    'i': 'yo',
+    'from': 'AUTO',
+    'to': 'AUTO',
+    'smartresult': 'dict',
+    'client': 'fanyideskweb',
+    'salt': '16010384274999',
+    'sign': '6bacb4bb0a55dcda63fe8489e27afc82',
+    'lts': '1601038427499',
+    'bv': '94ef9c063d6b2a801fab916722d70203',
+    'doctype': 'json',
+    'version': '2.1',
+    'keyfrom': 'fanyi.web',
+    'action': 'FY_BY_REALTlME',
+    }

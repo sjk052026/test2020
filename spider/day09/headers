@@ -1,0 +1,10 @@
+data = {
+    "from": "en",
+    "to": "zh",
+    "query": "tiger",
+    "transtype": "realtime",
+    "simple_means_flag": "3",
+    "sign": "505705.218200",
+    "token": "3e7d09995ce56f82e32837ab8047d7fe",
+    "domain": "common",
+}
